@@ -1,0 +1,1 @@
+import en from "vue-i18n/";
